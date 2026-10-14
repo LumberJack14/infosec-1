@@ -171,5 +171,4 @@ security-сканеры (см. [.github/workflows/ci.yml](.github/workflows/ci.y
 
 ## Последний успешный запуск pipeline
 
-<!-- TODO: заменить на ссылку на успешный запуск после первого push -->
-https://github.com/<USERNAME>/infosec-1/actions
+https://github.com/LumberJack14/infosec-1/actions/runs/38584012893
